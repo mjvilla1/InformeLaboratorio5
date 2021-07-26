@@ -27,11 +27,34 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 
 
 2.-Como se puede observar el circuito tine tres mallas a resolver 
+
 3.-Se revisa el valor de los materiales que ocuparemos para el laboratorio
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Materiales%20Thevenin.PNG)
 
 4.-Se procede a la simulación para la resolución del circuito mediante el uso correcto de las medidas de los voltajes y resistencias que se solicita
+
+5.- Se realiza el circuito de manera práctica colocando los elementos de manera correcta, a su vez se pone los elementos de medición para conocer los valores del voltaje e intensidad en R5.
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VCR5.jpeg)
+
+6.- Se procede a modificar el circuito para buscar la nueva resistencia que sera usada en el teorema de thevenin, retirando la resistencia 5 y analizando las demas resistencias como un circuito reemplazando las fuentes de voltaje por un cortocircuito.
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20CALCULO%20RL.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20RL.jpeg)
+
+7.- Para encontrar el Vth utilizamos las leyes de Kirchhoff en los nodos para encontrar las intensidades y de esa manera poder encontrar el voltaje que circulara por el circuito de thevenin 
+
+![]
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTHANALISI.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20ITH.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTH.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20Circuitoth.jpeg)
 
 #  4. Respuestas 
 
