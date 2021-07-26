@@ -50,7 +50,9 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VR5.jpeg)
 
-#  4. Respuestas 
+#  4. Respuestas
+
+Realizamos los procedimientos explicados en el punto anterior para sacar los valores solicitados.
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20CALCULO%20RL.jpeg)
 
@@ -59,6 +61,8 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTHANALISI.jpeg)
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20Circuitoth.jpeg)
+
+
 
 # 5. Video
 
