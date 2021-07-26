@@ -40,24 +40,25 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 
 6.- Se procede a modificar el circuito para buscar la nueva resistencia que sera usada en el teorema de thevenin, retirando la resistencia 5 y analizando las demas resistencias como un circuito reemplazando las fuentes de voltaje por un cortocircuito.
 
-![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20CALCULO%20RL.jpeg)
-
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20RL.jpeg)
 
 7.- Para encontrar el Vth utilizamos las leyes de Kirchhoff en los nodos para encontrar las intensidades y de esa manera poder encontrar el voltaje que circulara por el circuito de thevenin 
 
 ![]
 
-![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTHANALISI.jpeg)
-
-![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20ITH.jpeg)
-
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTH.jpeg)
 
-![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20Circuitoth.jpeg)
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VR5.jpeg)
 
 #  4. Respuestas 
 
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20CALCULO%20RL.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20ITH.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTHANALISI.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20Circuitoth.jpeg)
 
 # 5. Video
 
