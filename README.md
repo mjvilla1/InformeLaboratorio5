@@ -11,8 +11,10 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
     - Verificar los teoremas de Superposición, Thevenin y Máxima transferencia de potencia.
     - Verificar que el circuito original y el de Thevenin proporcionan la misma corriente y 
     tension a diferentescargas. 
-    - Simplificar los cálculos de un sistema eléctrico complejo por un circuito eléctrico equivalente mucho mas simple.
-    - Abstraer de forma clara y práctica el motivo por el cual se usan este teorema a la hora de analizar circuitos. 
+    - Simplificar los cálculos de un sistema eléctrico complejo por un circuito eléctrico 
+    equivalente mucho mas simple.
+    - Abstraer de forma clara y práctica el motivo por el cual se usan este teorema a la hora 
+    de analizar circuitos. 
     
 # 2. Marco Teórico
 
