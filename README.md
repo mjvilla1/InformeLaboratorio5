@@ -62,7 +62,15 @@ Realizamos los procedimientos explicados en el punto anterior para sacar los val
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20Circuitoth.jpeg)
 
+Con los valores obtenidos procedemos a llenar las tablas correspondientes 
 
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%205.1.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%203.2.jpeg)
+
+Hemos comprobado que los valores calculados y medidos tanto en el circuito de Thevenin como en el circuito original son parecidos por lo tanto el ejercicio esta resuelto de manera correcta.
+
+Comoo resultado tenemos que mediante el Teorema de Thevenin podemos obtener el valor mediante un redieño del circuito
 
 # 5. Video
 
