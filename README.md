@@ -17,11 +17,21 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 # 2. Marco Teórico
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Lab%205%20Teorema%20Thevenin.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Tabla%20%235.PNG)
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Tabla%20%235.1.PNG)
 # 3. Explicación  del procedimiento
 
+1.Saber el método de Thevenin y obtner el conocimiento, la destreza necesaria para la resolución de circuitos; el circuito a experimentar es el siguiente 
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Circuito%20Thevenin.PNG)
 
+
+2.-Como se puede observar el circuito tine tres mallas a resolver 
+3.-Se revisa el valor de los materiales que ocuparemos para el laboratorio
+
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Materiales%20Thevenin.PNG)
+
+4.-Se procede a la simulación para la resolución del circuito mediante el uso correcto de las medidas de los voltajes y resistencias que se solicita
 
 #  4. Respuestas 
 
