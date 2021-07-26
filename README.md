@@ -16,7 +16,7 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
     
 # 2. Marco Teórico
 
-
+![](https://github.com/mjvilla1/ImagenesLab5/blob/main/Lab%205%20Teorema%20Thevenin.PNG)
 
 # 3. Explicación  del procedimiento
 
