@@ -60,6 +60,8 @@ Realizamos los procedimientos explicados en el punto anterior para sacar los val
 
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20VTHANALISI.jpeg)
 
+El circuito de Thevenin queda de la siguiente manera 
+
 ![](https://github.com/mjvilla1/ImagenesLab5/blob/main/L5%20Circuitoth.jpeg)
 
 Con los valores obtenidos procedemos a llenar las tablas correspondientes 
