@@ -1,6 +1,6 @@
 # InformeLaboratorio5
 
-Integrantes: - César Garnica -Jonathan Insuasti - Melany  Villa 
+Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica 
 
 # 1. Objetivos 
       Objetivo General
