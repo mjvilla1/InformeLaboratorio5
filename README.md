@@ -80,7 +80,7 @@ Comoo resultado tenemos que mediante el Teorema de Thevenin podemos obtener el v
 
 # 5. Video
 
-
+https://youtu.be/pHiNp9WLPaI
 
 # 6. Conclusiones
 
