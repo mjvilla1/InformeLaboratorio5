@@ -4,7 +4,7 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 
 # 1. Objetivos 
       Objetivo General
-     - Realizar mediciones aplicando el teorema de Thévenin para darnos cuenta de que el resultado es el mismo si 
+     - Realizar mediciones aplicando el teorema de Thévenin mediante la utilización del simulador para tomar en  cuenta de que el resultado es el mismo si 
      utilizamos el análisis matemático y el experimental.
     
     Objetivos Específicos
