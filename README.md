@@ -4,8 +4,8 @@ Integrantes:  -Jonathan Insuasti - Melany  Villa -César Garnica
 
 # 1. Objetivos 
       Objetivo General
-     - Realizar mediciones aplicando el teorema de Thévenin mediante la utilización del simulador para tomar en  cuenta de que el resultado es el mismo si 
-     utilizamos el análisis matemático y el experimental.
+     - Realizar mediciones aplicando el teorema de Thévenin mediante la utilización del simulador para tomar en  cuenta de que el 
+     resultado es el mismo si utilizamos el análisis matemático y el experimental.
     
     Objetivos Específicos
     - Verificar los teoremas de Superposición, Thevenin y Máxima transferencia de potencia.
